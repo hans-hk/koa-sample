@@ -110,3 +110,5 @@ typings/
 .env
 
 package-lock.json
+
+db/*
