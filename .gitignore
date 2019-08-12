@@ -112,3 +112,5 @@ typings/
 package-lock.json
 
 db/*
+
+.idea/*
